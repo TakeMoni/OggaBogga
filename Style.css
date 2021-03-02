@@ -1,0 +1,145 @@
+body {
+	display: flex;
+  justify-content: center;
+ 
+}
+header{ 
+width:725px;
+}
+
+.bigheader,.tinyp {
+	font-family: Calibri;
+	color: #3f3f44;
+}
+img {
+	float:left;
+	height:125px;
+	width:150px;
+}
+.legend1{
+	font-family: SegoeUI;
+	color: #3f3f44;
+	font-size:30px;
+}
+.Lg1p {
+	font-family: Calibri;
+	color: #3f3f44;
+	font-size:20px;
+}
+.legend2{
+	font-family: SegoeUI;
+	color: #3f3f44;
+	font-size:30px;
+}
+.Lg2p {
+	font-family: Calibri;
+	color: #3f3f44;
+	font-size:20px; 
+}
+
+.name{
+	margin-left:150px;
+	width:245px;
+	height:30px;
+	border: 1px solid black;
+	margin-bottom: 4px;
+}
+
+.prenom{
+	margin-left:125px;
+	width:245px;
+	height:30px;
+	border: 1px solid black;
+	margin-bottom: 4px;
+}
+
+.date{
+	margin-left: 43px;
+	width:248px;
+	height:30px;
+	border: 1px solid black;
+	margin-bottom: 4px;
+}
+.adresse{
+	margin-left: 125px;
+	width:245px;
+	height:30px;
+	border: 1px solid black;
+	margin-bottom: 4px;
+}
+.pays{
+	margin-left:153px;
+	width:251px;
+	height:30px;
+	border: 1px solid black;
+	margin-bottom: 4px;
+}
+.number{
+	margin-left: 10px;
+	width:245px;
+	height:30px;
+	border: 1px solid black;
+	margin-bottom: 4px;
+	
+}
+.Skkrt{
+	margin-left:145px;
+	width:245px;
+	height:30px;
+	border: 1px solid black;
+	margin-bottom: 4px;
+}
+.CB1,.CB2,.CB3,.CB4 {
+	width:40px ;
+	height:20px;
+}
+.legend3{
+	font-family: SegoeUI;
+	color: #3f3f44;
+	font-size:30px;
+}
+.Lg3p {
+	font-family: Calibri;
+	color: #3f3f44;
+	font-size:20px;
+}
+
+.legend4{
+	font-family: SegoeUI;
+	color: #3f3f44;
+	font-size:30px;
+}
+.Lg4p {
+	font-family: Calibri;
+	color: #3f3f44;
+	font-size:20px;
+}
+.legend5{
+	font-family: SegoeUI;
+	color: #3f3f44;
+	font-size:30px;
+}
+.Lg5p {
+	font-family: Calibri;
+	color: #3f3f44;
+	font-size:20px;
+}
+.RSec {
+
+	height: 450px; width: 715px;
+   }
+.PP {
+	   font-family: Calibri; color: #222222; font-size: 25px;
+   }
+.RH1 {
+	   font-family: Calibri; color: #222222;
+   
+   }
+.result {
+
+	font-family: Calibri; color: #222222; font-size: 25px;
+
+}   
+.smola {
+	font-family: Calibri; color: #269e36; font-size: 25px;
+}

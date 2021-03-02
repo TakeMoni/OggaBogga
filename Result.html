@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Covid-19</title>
+    <link rel="stylesheet" href="Style.css"> 
+  </head>
+  <script lang="javascript" src="form.js"></script>
+  <body> <div class="Boddeh">
+    <header>
+      <h1 class="bigheader"><img src="Logo.png" alt="Error" title="logo">Diagnostic Covid-19 </h1>
+      <p class="tinyp"> Formulaire d’autoévaluation des symptômes de la  COVID-19. <br>
+        Le présent formulaire ne remplace pas une consultation médicale.
+        Respectez toujours les consignes que vous donne un professionnel de la
+        santé. </p> <br>
+    </header>
+    
+   <p class="result" id="Bruh">Vous avez fait une erreur en remplissant le formulaire. Veuillez réessayer en utilisant ce lien:</p><a class="smola" href="index.html">Main Page</a>
+
+  </body>
+  <script lang="JavaScript"> 
+    LocalS = window.localStorage ;
+    Message = LocalS.getItem("message");
+    document.getElementById("Bruh").innerHTML = Message;
+    </script>
+</html>
